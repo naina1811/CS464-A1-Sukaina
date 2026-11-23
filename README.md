@@ -12,11 +12,11 @@ Code Busters is a word puzzle game in which players decode hidden words using nu
 
 **Gameplay Screenshots:**
 
-![Code Busters Gameplay Screenshot 1](Docs/game1/1.jpeg)
+![Code Busters Gameplay Screenshot 1](Docs/Game1/1.jpeg)
 
-![Code Busters Gameplay Screenshot 2](Docs/game1/2.jpeg)
+![Code Busters Gameplay Screenshot 2](Docs/Game1/2.jpeg)
 
-![Code Busters Gameplay Screenshot 3](Docs/game1/3.jpeg)
+![Code Busters Gameplay Screenshot 3](Docs/Game1/3.jpeg)
 
 ### MDA Analysis
 
@@ -81,11 +81,11 @@ An Elmwood Trail is a mystery detective game in which players investigate a disa
 
 **Gameplay Screenshots:**
 
-![An Elmwood Trail Gameplay Screenshot 1](Docs/game2/1.jpeg)
+![An Elmwood Trail Gameplay Screenshot 1](Docs/Game2/1.jpeg)
 
-![An Elmwood Trail Gameplay Screenshot 2](Docs/game2/2.jpeg)
+![An Elmwood Trail Gameplay Screenshot 2](Docs/Game2/2.jpeg)
 
-![An Elmwood Trail Gameplay Screenshot 3](Docs/game2/3.jpeg)
+![An Elmwood Trail Gameplay Screenshot 3](Docs/Game2/3.jpeg)
 
 ### MDA Analysis
 
