@@ -178,7 +178,7 @@ The primary player type is **Explorer** because players investigate evidence and
 
 **Screenshot:**
 
-![Level 01](Docs/levels/level01.png)
+![Level 01](Docs/Levels/level01.png)
 
 ### Level 02
 **Level Idea:** [ADD LEVEL IDEA]  
