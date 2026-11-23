@@ -12,11 +12,11 @@ Code Busters is a word puzzle game in which players decode hidden words using nu
 
 **Gameplay Screenshots:**
 
-![Code Busters Gameplay Screenshot 1](Docs/game1/1.png)
+![Code Busters Gameplay Screenshot 1](Docs/game1/1.jpeg)
 
-![Code Busters Gameplay Screenshot 2](Docs/game1/2.png)
+![Code Busters Gameplay Screenshot 2](Docs/game1/2.jpeg)
 
-![Code Busters Gameplay Screenshot 3](Docs/game1/3.png)
+![Code Busters Gameplay Screenshot 3](Docs/game1/3.jpeg)
 
 ### MDA Analysis
 
@@ -81,11 +81,11 @@ An Elmwood Trail is a mystery detective game in which players investigate a disa
 
 **Gameplay Screenshots:**
 
-![An Elmwood Trail Gameplay Screenshot 1](Docs/game2/1.png)
+![An Elmwood Trail Gameplay Screenshot 1](Docs/game2/1.jpeg)
 
-![An Elmwood Trail Gameplay Screenshot 2](Docs/game2/2.png)
+![An Elmwood Trail Gameplay Screenshot 2](Docs/game2/2.jpeg)
 
-![An Elmwood Trail Gameplay Screenshot 3](Docs/game2/3.png)
+![An Elmwood Trail Gameplay Screenshot 3](Docs/game2/3.jpeg)
 
 ### MDA Analysis
 
@@ -171,9 +171,14 @@ The primary player type is **Explorer** because players investigate evidence and
 ## Part C — Greybox Level Design
 
 ### Level 01
-**Level Idea:** [ADD LEVEL IDEA]  
-**Wayfinding Tool:** [ADD WAYFINDING TOOL]  
-**Screenshot:** [ADD SCREENSHOT]
+
+**Level Idea:** A straight route connecting a starting room, narrow corridor, narrow bridge and final room.
+
+**Wayfinding Tool:** Leading lines, coloured markers and a visible landmark guide the player towards the goal.
+
+**Screenshot:**
+
+![Level 01](Docs/levels/level01.png)
 
 ### Level 02
 **Level Idea:** [ADD LEVEL IDEA]  
